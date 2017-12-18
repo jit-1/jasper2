@@ -15,7 +15,7 @@ logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url: jit-1.github.io
-source_url: jit-1.github.io
+source_url: https://github.com/jit-1/jit-1.github.io/
 
 # Social info
 navigation: True # show the navbar links
