@@ -73,7 +73,7 @@ branch: master
 relative_source: ../jit-1.github.io/
 destination: ../
 production_url:  https://jit1.github.io
-source_url:  https://jit1.github.io
+source_url:  https://github.com/jit-1/jit-1.github.io/
 
 exclude:
   - README.md
